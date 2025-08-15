@@ -1,148 +1,143 @@
-# 💰 Gasto Semanal
+💰 Gasto Semanal
 
-**Aplicación web para gestionar tu presupuesto semanal y controlar gastos en tiempo real**
+Aplicación web para gestionar tu presupuesto semanal y controlar gastos en tiempo real
 
-## 📋 Descripción
+📋 Descripción
 
-Proyecto desarrollado como parte del aprendizaje de **JavaScript Moderno**. Esta aplicación permite a los usuarios establecer un presupuesto semanal, registrar gastos y visualizar el saldo restante en tiempo real.
+Proyecto desarrollado como parte del aprendizaje de JavaScript Moderno en el curso de Juan Pablo De la Torre Valdez (Udemy).
+Esta aplicación permite a los usuarios establecer un presupuesto semanal, registrar gastos y visualizar el saldo restante en tiempo real.
 
-## 🚀 Características
+🚀 Características
 
-- ✅ Establecer presupuesto semanal inicial
-- ✅ Registrar gastos con nombre y cantidad
-- ✅ Calcular saldo restante automáticamente
-- ✅ Validación de formularios
-- ✅ Interfaz responsive con Bootstrap
-- ✅ Feedback visual para el usuario
-- ✅ Control de presupuesto en tiempo real
+✅ Establecer presupuesto semanal inicial
 
-## 🛠️ Tecnologías Utilizadas
+✅ Registrar gastos con nombre y cantidad
 
-- **HTML5** - Estructura del proyecto
-- **CSS3** - Estilos personalizados
-- **Bootstrap** - Framework CSS para diseño responsive
-- **JavaScript (ES6+)** - Lógica de la aplicación
-- **DOM Manipulation** - Interacción dinámica con elementos
+✅ Calcular saldo restante automáticamente
 
-## 📁 Estructura del Proyecto
+✅ Validación de formularios
 
-```
+✅ Interfaz responsive con Bootstrap
+
+✅ Feedback visual para el usuario
+
+✅ Control de presupuesto en tiempo real
+
+🛠️ Tecnologías Utilizadas
+
+HTML5 - Estructura del proyecto
+
+CSS3 - Estilos personalizados
+
+Bootstrap - Framework CSS para diseño responsive
+
+JavaScript (ES6+) - Lógica de la aplicación
+
+DOM Manipulation - Interacción dinámica con elementos
+
+📁 Estructura del Proyecto
 Proyecto-Gasto-Semanal/
 │
-├── index.html              # Página principal
 ├── css/
 │   ├── bootstrap.min.css   # Framework Bootstrap
 │   └── custom.css          # Estilos personalizados
-└── js/
-    └── app.js              # Lógica principal de la aplicación
-```
+├── js/
+│   └── app.js              # Lógica principal de la aplicación
+├── index.html              # Página principal
+└── README.md               # Documentación del proyecto
 
-## 🎯 Conceptos de JavaScript Aplicados
+🎯 Conceptos de JavaScript Aplicados
 
-Este proyecto pone en práctica los siguientes conceptos:
+Manipulación del DOM
 
-- **Manipulación del DOM**
-- **Event Listeners**
-- **Programación Orientada a Objetos (POO)**
-- **Clases y métodos**
-- **Validación de datos**
-- **Manejo de formularios**
-- **Template literals**
-- **Destructuring**
-- **Arrow functions**
+Event Listeners
 
-## 🌐 Demo en Vivo
+Programación Orientada a Objetos (POO)
 
-**🔗 [Ver Aplicación en Funcionamiento](https://verdant-truffle-568689.netlify.app/)**
+Clases y métodos
 
-*Prueba la aplicación directamente en tu navegador sin necesidad de instalación*
+Validación de datos
 
-## 🚀 Instalación y Uso
+Manejo de formularios
 
-### Opción 1: Usar la Demo Online
-- **Accede directamente**: [https://verdant-truffle-568689.netlify.app/](https://verdant-truffle-568689.netlify.app/)
-- No requiere instalación
-- Funciona en cualquier dispositivo con navegador
+Template literals
 
-### Opción 2: Ejecutar Localmente
+Destructuring
 
-#### Prerrequisitos
-- Navegador web moderno
-- No requiere instalación de dependencias
+Arrow functions
 
-#### Pasos para ejecutar
+🌐 Demo en Vivo
 
-1. **Clona el repositorio**
-   ```bash
-   git clone https://github.com/albertocll/Proyecto-Gasto-Semanl.git
-   ```
+🔗 Ver Aplicación en Funcionamiento
 
-2. **Navega al directorio**
-   ```bash
-   cd Proyecto-Gasto-Semanl
-   ```
+Prueba la aplicación directamente en tu navegador sin necesidad de instalación
 
-3. **Abre el archivo en tu navegador**
-   - Doble clic en `index.html`
-   - O abre con Live Server en VS Code
+🚀 Instalación y Uso
+Opción 1: Usar la Demo Online
 
-## 💡 Cómo Usar la Aplicación
+Accede directamente: https://miweekly.netlify.app/
 
-1. **Establece tu presupuesto**: Ingresa la cantidad de dinero disponible para la semana
-2. **Registra gastos**: Añade el nombre del gasto y la cantidad
-3. **Visualiza tu saldo**: Observa cómo se actualiza automáticamente el saldo restante
-4. **Control de presupuesto**: Recibe alertas cuando te acerques al límite
+No requiere instalación
 
-## 🎓 Objetivos de Aprendizaje
+Funciona en cualquier dispositivo con navegador
 
-Este proyecto fue desarrollado para practicar:
+Opción 2: Ejecutar Localmente
+Requisitos
 
-- Manipulación dinámica del DOM
-- Implementación de clases en JavaScript
-- Validación de formularios
-- Manejo de eventos del usuario
-- Uso de Local Storage (si aplica)
-- Mejores prácticas de código limpio
+Navegador web moderno
 
-## 🤝 Contribuciones
+No requiere instalación de dependencias
 
-Este es un proyecto de aprendizaje personal. Sin embargo, si tienes sugerencias o mejoras, ¡son bienvenidas!
+Pasos
 
-## 🔧 Despliegue
+Clona el repositorio
 
-La aplicación está desplegada usando **Netlify** para demostrar las mejores prácticas de despliegue de aplicaciones web estáticas.
+git clone https://github.com/albertocll/Proyecto-Gasto-semanal.git
 
-**URL de producción**: [https://verdant-truffle-568689.netlify.app/](https://verdant-truffle-568689.netlify.app/)
 
-### Proceso de Despliegue
-1. **Repositorio conectado** a Netlify
-2. **Despliegue automático** desde la rama `main`
-3. **HTTPS habilitado** por defecto
-4. **Optimización automática** de recursos
+Navega al directorio
 
-## 📚 Recursos de Aprendizaje
+cd Proyecto-Gasto-semanal
 
-Proyecto desarrollado siguiendo el curso:
-- **Curso**: JavaScript Moderno
-- **Instructor**: Juan de la Torre
-- **Plataforma**: Udemy
 
-## 📄 Licencia
+Abre el archivo en tu navegador
 
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
+Doble clic en index.html
 
-## 👤 Autor
+O usa Live Server en VS Code
 
-**Alberto** - [albertocll](https://github.com/albertocll)
+💡 Cómo Usar la Aplicación
 
----
+Establece tu presupuesto semanal
 
-⭐ **¡Dale una estrella al proyecto si te gustó!** ⭐
+Registra los gastos con nombre y cantidad
 
-## 📸 Preview
+Visualiza tu saldo restante actualizado automáticamente
 
-**🌐 [Probar la Aplicación](https://verdant-truffle-568689.netlify.app/)**
+Controla tu presupuesto con alertas visuales cuando te acerques al límite
 
-![Gasto Semanal App](https://via.placeholder.com/800x400/007bff/ffffff?text=Gasto+Semanal+App)
+🎓 Objetivos de Aprendizaje
 
-*Aplicación desplegada y funcionando en Netlify. ¡Pruébala directamente!*
+Manipulación dinámica del DOM
+
+Implementación de clases en JavaScript
+
+Validación de formularios
+
+Manejo de eventos del usuario
+
+Mejores prácticas de código limpio
+
+📄 Licencia
+
+Este proyecto es de uso personal y educativo, basado en un ejercicio del curso de Juan Pablo De la Torre Valdez (Udemy).
+
+👤 Autor
+
+Alberto – GitHub
+
+⭐ ¡Dale una estrella al proyecto si te gustó! ⭐
+
+📸 Preview
+
+🌐 Probar la Aplicación
