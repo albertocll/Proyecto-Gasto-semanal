@@ -10,18 +10,15 @@ Esta aplicación permite a los usuarios establecer un presupuesto semanal, regis
 🚀 Características
 
 ✅ Establecer presupuesto semanal inicial
-
 ✅ Registrar gastos con nombre y cantidad
-
 ✅ Calcular saldo restante automáticamente
-
 ✅ Validación de formularios
-
 ✅ Interfaz responsive con Bootstrap
-
 ✅ Feedback visual para el usuario
-
 ✅ Control de presupuesto en tiempo real
+✅ Persistencia de datos con LocalStorage  
+✅ Botón para reiniciar presupuesto
+
 
 🛠️ Tecnologías Utilizadas
 
@@ -34,6 +31,8 @@ Bootstrap - Framework CSS para diseño responsive
 JavaScript (ES6+) - Lógica de la aplicación
 
 DOM Manipulation - Interacción dinámica con elementos
+
+LocalStorage - Persistencia de datos en el navegador
 
 📁 Estructura del Proyecto
 Proyecto-Gasto-Semanal/
@@ -49,22 +48,16 @@ Proyecto-Gasto-Semanal/
 🎯 Conceptos de JavaScript Aplicados
 
 Manipulación del DOM
-
 Event Listeners
-
 Programación Orientada a Objetos (POO)
-
 Clases y métodos
-
 Validación de datos
-
 Manejo de formularios
-
 Template literals
-
 Destructuring
-
 Arrow functions
+LocalStorage (persistencia de datos)
+
 
 🌐 Demo en Vivo
 
@@ -139,5 +132,6 @@ Alberto – GitHub
 ⭐ ¡Dale una estrella al proyecto si te gustó! ⭐
 
 📸 Preview
+<img width="1733" height="741" alt="image" src="https://github.com/user-attachments/assets/5047ca12-42e4-4488-b80a-a590bbd9567b" />
 
 🌐 Probar la Aplicación
